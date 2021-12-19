@@ -1,0 +1,6 @@
+﻿  First.cpp
+F:\c code\Code20211219\Code20211219\First.cpp(38,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\c code\Code20211219\Code20211219\First.cpp(38,9): message : 请考虑在格式字符串中使用“%zd”
+F:\c code\Code20211219\Code20211219\First.cpp(39,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\c code\Code20211219\Code20211219\First.cpp(39,9): message : 请考虑在格式字符串中使用“%zd”
+  Code20211219.vcxproj -> F:\c code\Code20211219\x64\Debug\Code20211219.exe
