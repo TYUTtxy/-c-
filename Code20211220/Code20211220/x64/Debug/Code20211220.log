@@ -1,0 +1,6 @@
+﻿  First.cpp
+F:\c code\Code20211220\Code20211220\First.cpp(72,6): error C2040: “a”:“int []”与“int”的间接寻址级别不同
+F:\c code\Code20211220\Code20211220\First.cpp(72,13): error C2143: 语法错误: 缺少“]”(在“常数”的前面)
+F:\c code\Code20211220\Code20211220\First.cpp(72,13): error C3260: “常数”: 跳过 lambda 主体之前的意外标记
+F:\c code\Code20211220\Code20211220\First.cpp(74,1): error C3493: 无法隐式捕获“a”，因为尚未指定默认捕获模式
+F:\c code\Code20211220\Code20211220\First.cpp(79,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
