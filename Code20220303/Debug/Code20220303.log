@@ -1,0 +1,4 @@
+﻿  first.cpp
+F:\c code\Code20220303\first.cpp(25,20): error C2440: “初始化”: 无法从“const char [7]”转换为“char *”
+F:\c code\Code20220303\first.cpp(25,10): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+F:\c code\Code20220303\first.cpp(26,9): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”

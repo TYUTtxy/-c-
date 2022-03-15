@@ -1,0 +1,20 @@
+﻿  first.cpp
+F:\c code\Code20220227\first.cpp(11,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\c code\Code20220227\first.cpp(11,42): error C2146: 语法错误: 缺少“)”(在标识符“j”的前面)
+F:\c code\Code20220227\first.cpp(11,43): error C2059: 语法错误:“;”
+F:\c code\Code20220227\first.cpp(11,45): error C2059: 语法错误:“)”
+F:\c code\Code20220227\first.cpp(12,19): error C2059: 语法错误:“;”
+F:\c code\Code20220227\first.cpp(13,11): error C2065: “i”: 未声明的标识符
+F:\c code\Code20220227\first.cpp(15,4): error C2664: “size_t strlen(const char *)”: 无法将参数 1 从“int [20]”转换为“const char *”
+F:\c code\Code20220227\first.cpp(15,24): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(215,16): message : 参见“strlen”的声明
+F:\c code\Code20220227\first.cpp(15,4): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\c code\Code20220227\first.cpp(20,21): error C2440: “=”: 无法从“const char [2]”转换为“char”
+F:\c code\Code20220227\first.cpp(20,18): message : 没有使该转换得以执行的上下文
+F:\c code\Code20220227\first.cpp(26,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\c code\Code20220227\first.cpp(26,2): error C2365: “printf”: 重定义；以前的定义是“函数”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(950): message : 参见“printf”的声明
+F:\c code\Code20220227\first.cpp(26,15): error C2065: “str2”: 未声明的标识符
+F:\c code\Code20220227\first.cpp(27,2): error C2059: 语法错误:“return”
+F:\c code\Code20220227\first.cpp(28,1): error C2059: 语法错误:“}”
+F:\c code\Code20220227\first.cpp(28,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)

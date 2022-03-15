@@ -1,0 +1,3 @@
+﻿  first.cpp
+F:\c code\code20220218\first.cpp(59,24): error C2440: “初始化”: 无法从“const char [11]”转换为“char *”
+F:\c code\code20220218\first.cpp(59,10): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
