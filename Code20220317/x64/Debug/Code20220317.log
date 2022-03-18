@@ -1,0 +1,5 @@
+﻿  first.c
+F:\c code\Code20220317\first.c(38,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\c code\Code20220317\first.c(54,11): warning C4013: “lest_move”未定义；假设外部返回 int
+first.obj : error LNK2019: 无法解析的外部符号 lest_move，函数 main 中引用了该符号
+F:\c code\Code20220317\x64\Debug\Code20220317.exe : fatal error LNK1120: 1 个无法解析的外部命令
