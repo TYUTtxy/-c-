@@ -1,0 +1,13 @@
+﻿  first.c
+F:\c code\Code20221031\first.c(3,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\c code\Code20221031\first.c(25,20): warning C4133: “函数”: 从“SLTNode **”到“SLTDataType **”的类型不兼容
+F:\c code\Code20221031\first.c(27,19): warning C4133: “函数”: 从“SLTNode **”到“SLTDataType **”的类型不兼容
+F:\c code\Code20221031\first.c(29,19): warning C4133: “函数”: 从“SLTNode **”到“SLTDataType **”的类型不兼容
+F:\c code\Code20221031\first.c(30,20): warning C4133: “函数”: 从“SLTNode **”到“SLTDataType **”的类型不兼容
+  SList.c
+F:\c code\Code20221031\SList.c(24,20): warning C4133: “=”: 从“SLTNode *”到“SLTDataType *”的类型不兼容
+F:\c code\Code20221031\SList.c(28,1): warning C4133: “初始化”: 从“SLTDataType *”到“SLTNode *”的类型不兼容
+F:\c code\Code20221031\SList.c(48,26): warning C4133: “=”: 从“SLTDataType *”到“SListNode *”的类型不兼容
+F:\c code\Code20221031\SList.c(49,20): warning C4133: “=”: 从“SLTNode *”到“SLTDataType *”的类型不兼容
+  正在生成代码...
+  Code20221031.vcxproj -> F:\c code\Code20221031\x64\Debug\Code20221031.exe

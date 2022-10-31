@@ -1,0 +1,10 @@
+﻿  first.c
+F:\c code\数据结构课设\first.c(65,8): error C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+F:\c code\数据结构课设\first.c(141,7): warning C4013: “gets”未定义；假设外部返回 int
+F:\c code\数据结构课设\first.c(142,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\c code\数据结构课设\first.c(162,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\c code\数据结构课设\first.c(167,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\c code\数据结构课设\first.c(205,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\c code\数据结构课设\first.c(209,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\c code\数据结构课设\first.c(238,30): warning C4047: “!=”:“int”与“void *”的间接级别不同
+F:\c code\数据结构课设\first.c(263): fatal error C1075: “{”: 未找到匹配令牌
