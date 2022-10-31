@@ -1,0 +1,4 @@
+﻿  first.cpp
+F:\c code\Code20221025\first.cpp(1,1): warning C4828: 文件包含在偏移 0x2b9 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+F:\c code\Code20221025\first.cpp(42,23): warning C4101: “node”: 未引用的局部变量
+  Code20221025.vcxproj -> F:\c code\Code20221025\x64\Debug\Code20221025.exe
