@@ -1,0 +1,3 @@
+﻿  first.c
+F:\c code\Code20221107\first.c(32,19): warning C4020: “StackPush”: 实参太多
+  Code20221107.vcxproj -> F:\c code\Code20221107\x64\Debug\Code20221107.exe
